@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Online-Quiz-Platform/static/css/main.8af5164a.css",
+    "main.js": "/Online-Quiz-Platform/static/js/main.0a9afeba.js",
+    "index.html": "/Online-Quiz-Platform/index.html",
+    "main.8af5164a.css.map": "/Online-Quiz-Platform/static/css/main.8af5164a.css.map",
+    "main.0a9afeba.js.map": "/Online-Quiz-Platform/static/js/main.0a9afeba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8af5164a.css",
+    "static/js/main.0a9afeba.js"
+  ]
+}
